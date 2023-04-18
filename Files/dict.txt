@@ -1,0 +1,12 @@
+english:kiswahili
+book:kitabu
+this:hii
+is:ni
+read:soma
+write:andika
+open:fungua
+close:funga
+buy:nunua
+sell:uza
+kid:mtoto
+small:mdogo
